@@ -23,20 +23,10 @@ namespace asynchronous_assessment_lm
             var fryBaconTask = FryBaconAsync(3);
             var toastTask = PrepareToastBreadAsync(2);
 
-            List<Task> concurrentTasks = new List<Task> 
-            { 
-                fryEggTask, 
-                fryBaconTask, 
-                toastTask 
-            };
-
-            foreach (var task in concurrentTasks)
-            {
-                Task currentTask = await Task.WhenAny(task);
-                if(currentTask == fryEggTask) Console.WriteLine("Eggs are ready");
-                if (currentTask == fryEggTask) Console.WriteLine("Bacon is ready");
-                if (currentTask == fryEggTask) Console.WriteLine("toast is ready");
-            }
+            await Task.WhenAll(fryEggTask, fryBaconTask, toastTask);
+            Console.WriteLine("eggs are ready");
+            Console.WriteLine("bacon is ready");
+            Console.WriteLine("toast is ready");
 
             Juice orange = await PourOJAsync();
             Console.WriteLine("Orange juice is ready");
