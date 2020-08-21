@@ -1,0 +1,13 @@
+D:\DPTraining\asynchronous-assessment-lm\asynchronous-assessment-lm\bin\Debug\netcoreapp3.1\asynchronous-assessment-lm.exe
+D:\DPTraining\asynchronous-assessment-lm\asynchronous-assessment-lm\bin\Debug\netcoreapp3.1\asynchronous-assessment-lm.deps.json
+D:\DPTraining\asynchronous-assessment-lm\asynchronous-assessment-lm\bin\Debug\netcoreapp3.1\asynchronous-assessment-lm.runtimeconfig.json
+D:\DPTraining\asynchronous-assessment-lm\asynchronous-assessment-lm\bin\Debug\netcoreapp3.1\asynchronous-assessment-lm.runtimeconfig.dev.json
+D:\DPTraining\asynchronous-assessment-lm\asynchronous-assessment-lm\bin\Debug\netcoreapp3.1\asynchronous-assessment-lm.dll
+D:\DPTraining\asynchronous-assessment-lm\asynchronous-assessment-lm\bin\Debug\netcoreapp3.1\asynchronous-assessment-lm.pdb
+D:\DPTraining\asynchronous-assessment-lm\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\asynchronous-assessment-lm.csprojAssemblyReference.cache
+D:\DPTraining\asynchronous-assessment-lm\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\asynchronous-assessment-lm.AssemblyInfoInputs.cache
+D:\DPTraining\asynchronous-assessment-lm\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\asynchronous-assessment-lm.AssemblyInfo.cs
+D:\DPTraining\asynchronous-assessment-lm\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\asynchronous-assessment-lm.csproj.CoreCompileInputs.cache
+D:\DPTraining\asynchronous-assessment-lm\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\asynchronous-assessment-lm.dll
+D:\DPTraining\asynchronous-assessment-lm\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\asynchronous-assessment-lm.pdb
+D:\DPTraining\asynchronous-assessment-lm\asynchronous-assessment-lm\obj\Debug\netcoreapp3.1\asynchronous-assessment-lm.genruntimeconfig.cache
